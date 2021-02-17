@@ -1,0 +1,5 @@
+baseURL = "https://topgrade.info"
+languageCode = "en-us"
+title = "Topgrade"
+theme = "book"
+enableGitInfo = "true"
