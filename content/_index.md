@@ -35,11 +35,11 @@ distribution which ships the latest version of Rust, such as Arch Linux.
 
 ## Usage
 
-Just run `topgrade`. See [the docs]({{< relref "/docs/step-list" >}}) for the list of things Topgrade supports
+Just run `topgrade`. See [the docs]({{< relref "/docs/general/step-list" >}}) for the list of things Topgrade supports
 
 ## Customization
 
-See `config.example.toml` for an example configuration file.
+See [`config.example.toml`](https://github.com/r-darwish/topgrade/blob/develop/config.example.toml) for an example configuration file.
 
 ### Configuration path
 
