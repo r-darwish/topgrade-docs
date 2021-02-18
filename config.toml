@@ -2,4 +2,19 @@ baseURL = "https://topgrade.info"
 languageCode = "en-us"
 title = "Topgrade"
 theme = "book"
-enableGitInfo = "false"
+enableGitInfo = "true"
+
+[menu]
+[[menu.after]]
+	name = "Docs Github"
+	url = "https://github.com/jasikpark/topgrade-docs"
+	weight = 10
+[[menu.after]]
+	name = "Topgrade Github"
+	url = "https://github.com/r-darwish/topgrade"
+	weight = 20
+	
+[params]
+	BookTheme = "auto"
+	BookRepo = "https://github.com/jasikpark/topgrade-docs"
+	BookEditPath = "edit/main"
