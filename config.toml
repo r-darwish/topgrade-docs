@@ -17,4 +17,4 @@ enableGitInfo = "true"
 [params]
 	BookTheme = "auto"
 	BookRepo = "https://github.com/jasikpark/topgrade-docs"
-	BookEditPath = "edit/main"
+	BookEditPath = "edit/main/content"
