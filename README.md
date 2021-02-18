@@ -1,6 +1,6 @@
 # Topgrade Docs
 
-Documentation for the [topgrade](https://github.com/r-darwish/topgrade) tool.
+Documentation for [Topgrade](https://github.com/r-darwish/topgrade).
 
 This site currently uses the [hugo book](https://themes.gohugo.io//theme/hugo-book/) theme as a git submodule in `themes/book/`. An example/documentation site for the theme is at <https://themes.gohugo.io//theme/hugo-book/>
 
