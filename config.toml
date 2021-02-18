@@ -1,4 +1,4 @@
-baseURL = "https://topgrade.info"
+baseURL = "https://jasikpark.github.io/topgrade-docs/"
 languageCode = "en-us"
 title = "Topgrade"
 theme = "book"
