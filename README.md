@@ -2,7 +2,7 @@
 
 Documentation for [Topgrade](https://github.com/r-darwish/topgrade).
 
-This site currently uses the [hugo book](https://themes.gohugo.io//theme/hugo-book/) theme as a git submodule in `themes/book/`. An example/documentation site for the theme is at <https://themes.gohugo.io//theme/hugo-book/>
+This site currently uses the [hugo book](https://github.com/alex-shpak/hugo-book) theme as a git submodule in `themes/book/`. An example/documentation site for the theme is at <https://themes.gohugo.io//theme/hugo-book/>
 
 The example `config.toml` is at <https://github.com/alex-shpak/hugo-book/blob/master/exampleSite/config.toml>
 
