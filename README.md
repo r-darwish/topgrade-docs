@@ -13,3 +13,7 @@ To build:
   - Run `hugo serve --minify` to run a local server for development
 
 A Github Action is setup at [`.github/hugo.yaml`](.github/hugo.yaml) to host the documentation at [Topgrade Docs](https://jasikpark.github.io/topgrade)
+
+TODO:
+
+- [ ] Replace example content in the blog with pertinent information.
