@@ -16,4 +16,4 @@ A Github Action is setup at [`.github/hugo.yaml`](.github/hugo.yaml) to host the
 
 TODO:
 
-- [ ] Replace example content in the blog with pertinent information.
+- [ ] Replace example content in the blog with pertinent information. Or just simply drop the blog since it's unneeded.
